@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+*__pycache__/
+.pytest_cache/
+config.json
+temp/
+.ipynb_checkpoints
+SnifferDog
+logs/
+build/
+dist/
+*egg-info/
+*.log
+output/
+.coverage

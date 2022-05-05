@@ -1,0 +1,9 @@
+google_auth_httplib2.AuthorizedHttp
+google_auth_httplib2.AuthorizedHttp.add_certificate
+google_auth_httplib2.AuthorizedHttp.close
+google_auth_httplib2.AuthorizedHttp.connections
+google_auth_httplib2.AuthorizedHttp.follow_redirects
+google_auth_httplib2.AuthorizedHttp.redirect_codes
+google_auth_httplib2.AuthorizedHttp.request
+google_auth_httplib2.AuthorizedHttp.timeout
+google_auth_httplib2.Request

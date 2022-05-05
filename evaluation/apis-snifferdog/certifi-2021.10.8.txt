@@ -1,0 +1,5 @@
+certifi.contents
+certifi.core.contents
+certifi.core.read_text
+certifi.core.where
+certifi.where

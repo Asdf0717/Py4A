@@ -1,0 +1,4 @@
+tabulate.JupyterHTMLStr
+tabulate.JupyterHTMLStr.str
+tabulate.simple_separated_format
+tabulate.tabulate

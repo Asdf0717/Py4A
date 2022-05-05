@@ -1,0 +1,9 @@
+mypy_extensions.Arg
+mypy_extensions.DefaultArg
+mypy_extensions.DefaultNamedArg
+mypy_extensions.KwArg
+mypy_extensions.NamedArg
+mypy_extensions.NoReturn
+mypy_extensions.VarArg
+mypy_extensions.mypyc_attr
+mypy_extensions.trait

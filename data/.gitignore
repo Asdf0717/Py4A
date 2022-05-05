@@ -1,0 +1,11 @@
+release-notes/
+repos/
+apis/
+apid/
+pkg/
+metadata/
+requirements/
+python/
+stats/
+*.7z
+pkg_stats.csv
